@@ -309,7 +309,7 @@ supabase logs
 
 ```bash
 # 1. Conectar ao projeto
-supabase link --project-ref seu-project-ref
+supabase link --project-ref ddnevwbvxapllagzcjon
 
 # 2. Verificar diferenças pendentes
 supabase db diff
