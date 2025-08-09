@@ -12,10 +12,6 @@ export function useNavigation(): NavigationData {
     {
       label: t('mainMenu'),
       items: [
-        {
-          title: t('dashboard'),
-          icon: Icons.HomeIcon,
-          url: '/app/',
           items: [
           ],
         },
